@@ -104,9 +104,7 @@ The IWEBBS team can assist in:
 - Providing documentation packages for internal or external audits
 - Recommending technologies or processes based on assessment results
 
-All planning references the existing assessment data. No rework or duplicate data entry is needed. The recorded inputs serve as the baseline for all recommendations, reducing duplicate effort.
-
 ## Contact
 
-**Email**: [support@iwebbs.com](mailto:support@iwebbs.com)  
-**Website**: [https://iwebbs.com](https://iwebbs.com)# IWEBBS-GAP-ASSESSMENT-TOOL
+**Email**: []()  
+**Website**: []()# IWEBBS-GAP-ASSESSMENT-TOOL
